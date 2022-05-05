@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.Programming.Masterclass_Udemy.iml" filepath="$PROJECT_DIR$/Java.Programming.Masterclass_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,34 @@
+Index: src/academy/learnprogram/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/academy/learnprogram/Main.java b/src/academy/learnprogram/Main.java
+--- a/src/academy/learnprogram/Main.java	
++++ b/src/academy/learnprogram/Main.java	(date 1651688874138)
+@@ -20,20 +20,15 @@
+         System.out.println("Byte Minimum Value = " + myMinByteValue);
+         System.out.println("Byte Maximum Value = " + myMaxByteValue);
+ 
+-        long myMinlongValue = long.MIN_VALUE;
+-        long myMaxlongValue = long.MAX_VALUE;
+-        System.out.println("long Minimum Value = " + myMinlongValue);
+-        System.out.println("long Maximum Value = " + myMaxlongValue);
+-        
++        short myMinShortValue = Short.MIN_VALUE;
++        short myMaxShortValue = Short.MAX_VALUE;
++        System.out.println("Short Minimum Value = " + myMinShortValue);
++        System.out.println("Short Maximum Value = " + myMaxShortValue);
++
+         long myLongValue = 100L;
+         long myMinLongValue = Long.MIN_VALUE;
+         long myMaxLongValue = Long.MAX_VALUE;
+         System.out.println("Long Minimum Value = " + myMinLongValue);
+         System.out.println("Long Maximum Value = " + myMaxLongValue);
+-        long bigLongLiteralValue = 2147483647L;
+-        System.out.println(bigLongLiteralValue);
+-
+-        short bigShortLiteralValue = 32767;
+-        System.out.println(bigShortLiteralValue);
+     }
+ }
