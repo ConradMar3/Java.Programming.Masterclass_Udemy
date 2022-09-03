@@ -8,7 +8,7 @@ public class KeywordsAndExpressions1 {
         int highScore = 50;
 
         if (highScore == 50) {
-            System.out.println("This is an expression");
+            System.out.print("This is an expression");
         }
     }
 }
