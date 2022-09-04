@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodingExcersise1/CodingExcersise1.iml" filepath="$PROJECT_DIR$/CodingExcersise1/CodingExcersise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExcersise1/CodingExercises.iml" filepath="$PROJECT_DIR$/CodingExcersise1/CodingExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiffMerge/DiffMerge.iml" filepath="$PROJECT_DIR$/DiffMerge/DiffMerge.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatAndDoublePrimitiveTypes/FloatAndDoublePrimitiveTypes.iml" filepath="$PROJECT_DIR$/FloatAndDoublePrimitiveTypes/FloatAndDoublePrimitiveTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatingPointPrecision/FloatingPointPrecision.iml" filepath="$PROJECT_DIR$/FloatingPointPrecision/FloatingPointPrecision.iml" />
