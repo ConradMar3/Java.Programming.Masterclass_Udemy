@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package timbuchalka.ExcersiseExample1;
 
 public class PositiveNegativeZero {
     public static void main(String[] args) {
