@@ -1,6 +1,6 @@
 package com.timbuchalka;
 
-public class Main {
+public class Wow_GeniusMaximus {
 
     public static void main(String[] args) {
         boolean gameOver = true;

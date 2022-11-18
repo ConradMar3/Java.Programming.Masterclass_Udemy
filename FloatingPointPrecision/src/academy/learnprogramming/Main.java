@@ -23,8 +23,8 @@ public class Main {
         System.out.println("MyDoubleValue = " + myDoubleValue);
 
         double numberOfPounds = 200d;
-        double convertdeKilograms = numberOfPounds * 0.45359237d;
-        System.out.println(convertdeKilograms);
+        double convertKilograms = numberOfPounds * 0.45359237d;
+        System.out.println(convertKilograms);
 
     }
 }
